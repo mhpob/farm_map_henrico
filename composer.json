@@ -1,18 +1,18 @@
 {
-  "name": "mhpob/farm_map_va",
-  "description": "Virginia map base layers for farmOS",
+  "name": "mhpob/farm_map_henrico",
+  "description": "Henrico, VA map base layers for farmOS",
   "type": "drupal-module",
-  "homepage": "https://github.com/mhpob/farm_map_va",
+  "homepage": "https://github.com/mhpob/farm_map_henrico",
   "authors": [
     {
-      "name": "MOB",
-      "homepage": "mhpob/farm_map_va",
+      "name": "Mike O'Brien",
+      "homepage": "mhpob/farm_map_henrico",
       "role": "Maintainer"
     }
   ],
   "support": {
-    "issues": "https://github.com/mhpob/farm_map_va/issues",
-    "source": "https://github.com/mhpob/farm_map_va"
+    "issues": "https://github.com/mhpob/farm_map_henrico/issues",
+    "source": "https://github.com/mhpob/farm_map_henrico"
   },
   "license": "GPL-3.0-or-later",
   "minimum-stability": "dev"

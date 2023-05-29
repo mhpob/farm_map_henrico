@@ -1,0 +1,5 @@
+services:
+  henrico_map_render_event_subscriber:
+    class: Drupal\farm_map_henrico\EventSubscriber\MapRenderEventSubscriber
+    tags:
+      - { name: 'event_subscriber' }

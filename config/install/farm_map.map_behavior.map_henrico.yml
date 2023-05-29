@@ -1,0 +1,11 @@
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - farm_map_henrico
+id: map_va
+label: Farm Map Henrico
+description: 'Displays Henrico, VA layers.'
+library: 'farm_map_henrico/map_henrico'
+settings: {  }

@@ -31,7 +31,7 @@ class MapRenderEventSubscriber implements EventSubscriberInterface {
    * @throws \Drupal\Component\Plugin\Exception\PluginNotFoundException
    */
   public function onMapRender(MapRenderEvent $event) {
-    $event->addBehavior('map_va');
+    $event->addBehavior('map_henrico');
   }
 
 }
