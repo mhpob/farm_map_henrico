@@ -1,5 +1,5 @@
 (function () {
-  farmOS.map.behaviors.map_va = {
+  farmOS.map.behaviors.map_henrico = {
     attach: function (instance) {
 
       // From https://portal.henrico.us/image/rest/services/Imagery?f=pjson
@@ -23,7 +23,7 @@
       ];
 
       basemaps.forEach(function(basemap) {
-        // Add Virginia Basemaps
+        // Add Henrico Basemaps
         var opts = {
           title: "Henrico " + basemap.name.split('/')[1],
           url: 'https://portal.henrico.us/image/rest/services/' + basemap.name + '/' + basemap.type,
