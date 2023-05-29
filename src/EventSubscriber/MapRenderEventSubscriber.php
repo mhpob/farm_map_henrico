@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\farm_map_va\EventSubscriber;
+namespace Drupal\farm_map_henrico\EventSubscriber;
 
 use Drupal\farm_map\Event\MapRenderEvent;
 use Symfony\Component\EventDispatcher\EventSubscriberInterface;
