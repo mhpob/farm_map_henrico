@@ -17,8 +17,10 @@
         { "name": "Imagery/AerialPhotos2016", "type": "ImageServer" },
         { "name": "Imagery/AerialPhotos2017", "type": "ImageServer" },
         { "name": "Imagery/AerialPhotos2018", "type": "ImageServer" },
+        { "name": "Imagery/AerialPhotos2020", "type": "ImageServer" },
         { "name": "Imagery/AerialPhotos2021", "type": "ImageServer" },
         { "name": "Imagery/AerialPhotos2022", "type": "ImageServer" },
+        { "name": "Imagery/AerialPhotos2024", "type": "ImageServer" },
         { "name": "Imagery/AerialPhotosCurrent", "type": "ImageServer" }
       ];
 
